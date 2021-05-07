@@ -3,14 +3,6 @@
 
 This is a program that I created for my company in order to hash a directory and its sub-folders so that the contents can be verified later using a .hash file.
 
-## Installation
-A minimum of Python 3.7 is recommended for maximum compatibility.
-
-Use the package manager  [pip](https://pip.pypa.io/en/stable/)  to install this program's dependencies:
-```bash
-pip install PySide2
-```
-
 ## Usage
 
 **In File Path:**
